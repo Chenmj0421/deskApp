@@ -1,0 +1,47 @@
+<html>
+<head>
+<script type="text/javascript">
+function formSubmit()
+{
+document.getElementById("info").value="330100|330481198610031844|W694646|330100D156000005004D53B0DACF49DB|陈明军|860100880286653301004D53B0|1.00|20120812|20220812|330400819595";
+
+document.getElementById("myForm").submit()
+    }
+
+    function saveLoginInfo() {
+        var r = JsEvent.SaveLoginInfo("cmj", "123", 1);//保存自动登录信息 name，password，isAutoLogin
+        alert(r);
+    }
+
+    function getLoginInfo() {
+        var r = JsEvent.AutoLoginInfo(); //获取自动登录信息 name|password|isAutoLogin    说明: name-账号,password-密码，isAutoLogin-是否自动登录  1-是 0-否
+        alert(r);
+    }
+
+    function notice() {
+        JsEvent.NoticeHandler(); //有随访通知
+    }
+
+    function spread(type) {
+        JsEvent.Spread(type,400);
+    }
+
+
+</script>
+</head>
+
+<body>
+<p>功能测试</p>
+<form id="myForm" action="http://192.168.3.69:8081" method="post">
+    <input type="text" name="info" id="info"><br />
+    <br />
+    <input type="button" onclick="formSubmit()" value="提交">
+    <input type="button" onclick="saveLoginInfo()" value="保存登录信息">
+    <input type="button" onclick="getLoginInfo()" value="获取登录信息">
+    <input type="button" onclick="notice()" value="通知">
+    <input type="button" onclick="spread(1)" value="展开">
+    <input type="button" onclick="spread(0)" value="还原">
+</form>
+</body>
+
+</html>

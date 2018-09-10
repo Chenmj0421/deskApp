@@ -1,0 +1,47 @@
+﻿.vs/
+myAIDoctor/bin/
+myAIDoctor/obj/x86/Release/myaidoctor.csproj.CoreCompileInputs.cache
+myAIDoctor/obj/x86/Release/myAIDoctor.pdb
+myAIDoctor/obj/x86/Release/myAIDoctor.exe
+myAIDoctor/obj/x86/Release/myAIDoctor.Setting.resources
+myAIDoctor/obj/x86/Release/myAIDoctor.Properties.Resources.resources
+myAIDoctor/obj/x86/Release/myAIDoctor.Notify.resources
+myAIDoctor/obj/x86/Release/myAIDoctor.Login.resources
+myAIDoctor/obj/x86/Release/myAIDoctor.Detail.resources
+myAIDoctor/obj/x86/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+myAIDoctor/obj/x86/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+myAIDoctor/obj/x86/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+myAIDoctor/obj/x86/Release/TempPE/Properties.Resources.Designer.cs.dll
+myAIDoctor/obj/x86/Debug/myaidoctor.csprojAssemblyReference.cache
+myAIDoctor/obj/x86/Debug/myaidoctor.csproj.GenerateResource.cache
+myAIDoctor/obj/x86/Debug/myaidoctor.csproj.FileListAbsolute.txt
+myAIDoctor/obj/x86/Debug/myaidoctor.csproj.CoreCompileInputs.cache
+myAIDoctor/obj/x86/Debug/myAIDoctor.pdb
+myAIDoctor/obj/x86/Debug/myAIDoctor.exe
+myAIDoctor/obj/x86/Debug/myAIDoctor.Setting.resources
+myAIDoctor/obj/x86/Debug/myAIDoctor.Properties.Resources.resources
+myAIDoctor/obj/x86/Debug/myAIDoctor.Notify.resources
+myAIDoctor/obj/x86/Release/myaidoctor.csprojAssemblyReference.cache
+myAIDoctor/obj/x86/Release/myaidoctor.csproj.GenerateResource.cache
+myAIDoctor/obj/x86/Release/myaidoctor.csproj.FileListAbsolute.txt
+myAIDoctor/obj/x86/Debug/myAIDoctor.Login.resources
+myAIDoctor/obj/x86/Debug/myAIDoctor.Detail.resources
+myAIDoctor/obj/x86/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+myAIDoctor/obj/x86/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+myAIDoctor/obj/x86/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+myAIDoctor/obj/x86/Debug/TempPE/Properties.Resources.Designer.cs.dll
+AIDoctorWindowsService/
+myAIDoctor/obj/x86/Release/DesignTimeResolveAssemblyReferencesInput.cache
+myAIDoctor/obj/x86/Release/DesignTimeResolveAssemblyReferences.cache
+Setup/Release/setup.exe
+Setup/Release/myAIDoctor Install.msi
+认识医生桌面用应安装/安装包/myAIDoctor Install.msi
+认识医生桌面用应安装/READ ME.txt
+认识医生桌面用应安装/Microsoft .NET Framework 4.7.1/Microsoft .NET Framework 4.7.1.exe
+myAIDoctor/obj/x86/Release/9ae6a685-1da2-4181-a0ae-ad3e92be977e_myAIDoctor.pdb
+认识医生桌面用应安装/C++运行库合集/微软常用运行库合集 v2018.06.30(32&64位)最新版.exe
+myAIDoctor/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+myAIDoctor/obj/
+Setup/Setup.vdproj
+Setup/Debug/setup.exe
+Setup/Debug/Setup.msi

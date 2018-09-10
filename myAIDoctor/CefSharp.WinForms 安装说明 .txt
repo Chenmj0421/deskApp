@@ -1,0 +1,2 @@
+﻿1、地址：https://www.nuget.org/packages/CefSharp.WinForms/
+2、使用NuGet管理器：Install-Package CefSharp.WinForms -Version 63.0.3
